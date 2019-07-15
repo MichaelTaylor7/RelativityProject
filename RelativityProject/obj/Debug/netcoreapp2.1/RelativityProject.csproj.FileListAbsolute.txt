@@ -1,0 +1,14 @@
+/Users/michaeltaylor/Desktop/RelativityProject/bin/Debug/netcoreapp2.1/RelativityProject.deps.json
+/Users/michaeltaylor/Desktop/RelativityProject/bin/Debug/netcoreapp2.1/RelativityProject.runtimeconfig.json
+/Users/michaeltaylor/Desktop/RelativityProject/bin/Debug/netcoreapp2.1/RelativityProject.runtimeconfig.dev.json
+/Users/michaeltaylor/Desktop/RelativityProject/bin/Debug/netcoreapp2.1/RelativityProject.dll
+/Users/michaeltaylor/Desktop/RelativityProject/bin/Debug/netcoreapp2.1/RelativityProject.pdb
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.csprojAssemblyReference.cache
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.csproj.CoreCompileInputs.cache
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.RazorAssemblyInfo.cache
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.RazorAssemblyInfo.cs
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.AssemblyInfoInputs.cache
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.AssemblyInfo.cs
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.RazorTargetAssemblyInfo.cache
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.dll
+/Users/michaeltaylor/Desktop/RelativityProject/obj/Debug/netcoreapp2.1/RelativityProject.pdb
